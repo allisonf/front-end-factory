@@ -1,7 +1,7 @@
-.asscache
-.gradle
-*.iml
-*.ipr
-*.iws
-gradlew
-gradlew.bat
+*/.asscache
+*/.gradle
+*/*.iml
+*/*.ipr
+*/*.iws
+*/gradlew
+*/gradlew.bat
